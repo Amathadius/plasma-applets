@@ -24,23 +24,23 @@ msgstr "Général"
 
 #: ../contents/config/config.qml:16 ../contents/ui/UpcomingEvents.qml:124
 msgid "Calendar"
-msgstr ""
+msgstr "Calendrier"
 
 #: ../contents/config/config.qml:21
 msgid "Agenda"
-msgstr ""
+msgstr "Agenda"
 
 #: ../contents/config/config.qml:26
 msgid "Google Calendar"
-msgstr ""
+msgstr "Google Calendar"
 
 #: ../contents/config/config.qml:31
 msgid "Weather"
-msgstr ""
+msgstr "Météo"
 
 #: ../contents/config/config.qml:36
 msgid "Advanced"
-msgstr ""
+msgstr "Avancée"
 
 #: ../contents/ui/AgendaListItem.qml:177
 msgid "[No Calendars]"
@@ -52,19 +52,19 @@ msgstr ""
 
 #: ../contents/ui/AgendaListItem.qml:262
 msgid "Event Summary"
-msgstr ""
+msgstr "Résumé d'événement"
 
 #: ../contents/ui/AgendaListItem.qml:327
 msgid "to"
-msgstr ""
+msgstr "à"
 
 #: ../contents/ui/AgendaListItem.qml:353
 msgid "All Day"
-msgstr ""
+msgstr "Toute la journée"
 
 #: ../contents/ui/AgendaListItem.qml:357
 msgid "Save"
-msgstr ""
+msgstr "Sauvegarder"
 
 #: ../contents/ui/AgendaListItem.qml:365
 msgid "Discard"
@@ -76,7 +76,7 @@ msgstr ""
 
 #: ../contents/ui/AgendaListItem.qml:412
 msgid "Delete Event"
-msgstr ""
+msgstr "Enlever l'événement"
 
 #: ../contents/ui/AgendaListItem.qml:415
 msgid "Confirm Deletion"
@@ -88,27 +88,27 @@ msgstr ""
 
 #: ../contents/ui/config/ConfigAgenda.qml:28
 msgid "Show agenda"
-msgstr ""
+msgstr "Afficher l'agenda"
 
 #: ../contents/ui/config/ConfigAgenda.qml:34
 msgid "Agenda above the month (Single Column)"
-msgstr ""
+msgstr "Agenda au-dessus du mois (une colonne)"
 
 #: ../contents/ui/config/ConfigAgenda.qml:41
 msgid "Agenda to the left (Two Columns)"
-msgstr ""
+msgstr "Agenda à la gauche du mois (deux colonnes)"
 
 #: ../contents/ui/config/ConfigAgenda.qml:54
 msgid "Weather Icon"
-msgstr ""
+msgstr "Icône météo"
 
 #: ../contents/ui/config/ConfigAgenda.qml:72
 msgid "Icon Outline"
-msgstr ""
+msgstr "Contours d'icône"
 
 #: ../contents/ui/config/ConfigAgenda.qml:78
 msgid "Weather Text"
-msgstr ""
+msgstr "Texte de la météo"
 
 #: ../contents/ui/config/ConfigAgenda.qml:82
 msgid "Click Weather:"
